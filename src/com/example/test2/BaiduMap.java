@@ -6,4 +6,5 @@ package com.example.test2;
  */
 public class BaiduMap {
 
+	// in branch baiduMap modify
 }
