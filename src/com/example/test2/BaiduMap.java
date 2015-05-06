@@ -5,5 +5,5 @@ package com.example.test2;
  *
  */
 public class BaiduMap {
-	//改dev �ύ��maste ����
+	//改dev  master
 }
