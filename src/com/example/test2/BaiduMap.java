@@ -5,5 +5,5 @@ package com.example.test2;
  *
  */
 public class BaiduMap {
-	//ĞŞ¸Ädev Ìá½»µ½maste ÊÔÊÔ
+	//ä¿®æ”¹dev ä¸æåŠ     æäº¤è‡³master
 }
