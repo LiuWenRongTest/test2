@@ -4,11 +4,16 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**
+ * @author lwr
+ *
+ */
 public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // hhahahhahahhahahahh
         setContentView(R.layout.activity_main);
     }
 
