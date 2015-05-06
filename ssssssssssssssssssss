@@ -1,0 +1,15 @@
+[1mdiff --git a/src/com/example/test2/MainActivity.java b/src/com/example/test2/MainActivity.java[m
+[1mindex a7183ed..897fc73 100644[m
+[1m--- a/src/com/example/test2/MainActivity.java[m
+[1m+++ b/src/com/example/test2/MainActivity.java[m
+[36m@@ -4,6 +4,10 @@[m [mimport android.os.Bundle;[m
+ import android.app.Activity;[m
+ import android.view.Menu;[m
+ [m
+[32m+[m[32m/**[m
+[32m+[m[32m * @author lwr[m
+[32m+[m[32m *[m
+[32m+[m[32m */[m
+ public class MainActivity extends Activity {[m
+ [m
+     @Override[m
