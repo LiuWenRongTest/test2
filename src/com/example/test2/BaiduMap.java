@@ -9,4 +9,5 @@ public class BaiduMap {
 	//改dev  master   2删除dev 后 再新创建的dev
 
 	// in branch baiduMap modify 2 add
+	//dev add
 }
